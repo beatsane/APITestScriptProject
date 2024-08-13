@@ -41,6 +41,4 @@ public class ProjectTest extends BaseClassAPI {
 		boolean flag  = databaseUtility.executeQueryVerifyAndGetData("select * from project", 4, projectName);
 	    Assert.assertTrue(flag,"Project in DB is not verified");
 	}
-	
-	
 }
