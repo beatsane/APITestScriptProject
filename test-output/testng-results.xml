@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-13T14:36:38 IST" name="Default suite" finished-at="2024-08-13T14:36:59 IST" duration-ms="20742">
+  <suite started-at="2024-08-13T15:04:49 IST" name="Default suite" finished-at="2024-08-13T15:05:10 IST" duration-ms="20707">
     <groups>
     </groups>
-    <test started-at="2024-08-13T14:36:38 IST" name="Default test" finished-at="2024-08-13T14:36:59 IST" duration-ms="20742">
+    <test started-at="2024-08-13T15:04:49 IST" name="Default test" finished-at="2024-08-13T15:05:10 IST" duration-ms="20707">
       <class name="com.apitestscript.projecttest.ProjectTest">
-        <test-method is-config="true" signature="configBeforeSuite()[pri:0, instance:com.apitestscript.projecttest.ProjectTest@5f049ea1]" started-at="2024-08-13T14:36:31 IST" name="configBeforeSuite" finished-at="2024-08-13T14:36:38 IST" duration-ms="7509" status="PASS">
+        <test-method is-config="true" signature="configBeforeSuite()[pri:0, instance:com.apitestscript.projecttest.ProjectTest@5f049ea1]" started-at="2024-08-13T15:04:41 IST" name="configBeforeSuite" finished-at="2024-08-13T15:04:49 IST" duration-ms="8115" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBeforeSuite -->
-        <test-method signature="addSingleProjectWithCreatedTest()[pri:0, instance:com.apitestscript.projecttest.ProjectTest@5f049ea1]" started-at="2024-08-13T14:36:39 IST" name="addSingleProjectWithCreatedTest" finished-at="2024-08-13T14:36:59 IST" duration-ms="20244" status="PASS">
+        <test-method signature="addSingleProjectWithCreatedTest()[pri:0, instance:com.apitestscript.projecttest.ProjectTest@5f049ea1]" started-at="2024-08-13T15:04:50 IST" name="addSingleProjectWithCreatedTest" finished-at="2024-08-13T15:05:10 IST" duration-ms="20202" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addSingleProjectWithCreatedTest -->
-        <test-method is-config="true" signature="configAfterSuite()[pri:0, instance:com.apitestscript.projecttest.ProjectTest@5f049ea1]" started-at="2024-08-13T14:37:00 IST" name="configAfterSuite" finished-at="2024-08-13T14:37:00 IST" duration-ms="20" status="PASS">
+        <test-method is-config="true" signature="configAfterSuite()[pri:0, instance:com.apitestscript.projecttest.ProjectTest@5f049ea1]" started-at="2024-08-13T15:05:10 IST" name="configAfterSuite" finished-at="2024-08-13T15:05:11 IST" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAfterSuite -->

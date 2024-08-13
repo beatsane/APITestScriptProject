@@ -22,7 +22,7 @@ public class ProjectTest extends BaseClassAPI {
 
 		String expectedMessage = "Successfully Added";
 		String projectName = "AlfaLaval_" + javaUtility.getRandomNumber();
-		projectPojo = new ProjectPojo(projectName, "Created", "Chidu", 0);
+		projectPojo = new ProjectPojo(projectName, "Created", "ChiduSD", 0);
 
 		Response response = given()
 							.spec(requestSpecificationObject)
